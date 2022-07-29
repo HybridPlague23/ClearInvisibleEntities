@@ -1,0 +1,10 @@
+main: me.hybridplague.clearinvisibleentities.ClearInvisibleEntities
+name: ClearInvisibleEntities
+version: 1.0
+api-version: 1.13
+
+commands:
+  cleararmorstands:
+    aliases: [cleararmorstand, clearas, cas]
+  clearitemframes:
+    aliases: [clearitemframe, clearif, cif]
